@@ -1,6 +1,6 @@
 # learning java programming
 
-## Open Courses
+## courses
 
 Udacity: Into to Java Programming
 
